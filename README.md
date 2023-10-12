@@ -13,4 +13,4 @@ Some great resources are [blog posts](https://bost.ocks.org/mike/) and [Observab
 
 ## Turning it in
 
-This assignment will be due on Tuesday, November 8th before our meeting that day. Please upload the link to your finished assignment here: [https://forms.gle/1hKjMNt4HHx4ZCbw8](https://forms.gle/1hKjMNt4HHx4ZCbw8) ! 
+This assignment will be due on October 26th before our meeting that day. Please upload the link to your finished assignment here: [https://forms.gle/1hKjMNt4HHx4ZCbw8](https://forms.gle/1hKjMNt4HHx4ZCbw8) ! 
