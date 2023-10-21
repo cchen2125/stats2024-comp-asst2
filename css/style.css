@@ -1,5 +1,14 @@
 /**** ADD YOUR STYLES ****/
 
+* {
+  font-family: 'Avenir', 'Helvetica', 'sans-serif';
+}
+
+body {
+  background-color: rgb(239, 250, 238);
+  padding: 20px
+}
+
 .bar {
   fill: #3C948B;
 }
